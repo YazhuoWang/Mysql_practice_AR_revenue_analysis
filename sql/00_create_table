@@ -1,0 +1,20 @@
+CREATE TABLE train (
+    row_id INT,
+    order_id VARCHAR(50),
+    order_date VARCHAR(50),
+    ship_date VARCHAR(50),
+    ship_mode VARCHAR(50),
+    customer_id VARCHAR(50),
+    customer_name VARCHAR(150),
+    segment VARCHAR(20),
+    country VARCHAR(50),
+    city VARCHAR(50),
+    state VARCHAR(20),
+    postal_code int,
+    region VARCHAR(20),
+    product_id VARCHAR(50),
+    category VARCHAR(20),
+    sub_category VARCHAR(20),
+    product_name VARCHAR(50),
+    sales decimal(10,3)
+);
