@@ -20,10 +20,8 @@ The dataset does not originally contain payment information, they were added via
 
 ## Power BI Dashboards
 
-![Sales Dashboard](<img width="1428" height="800" alt="image" src="https://github.com/user-attachments/assets/dcc22767-6225-478f-85eb-145469c9680b" />
-)
-![Payment Dashboard](<img width="1424" height="795" alt="image" src="https://github.com/user-attachments/assets/03ee84b8-dc86-4372-887c-c184b5aee3c1" />
-)
+![Sales Dashboard](Payment_Behaviour.png)
+![Payment Dashboard](Sales_Dashboard,png)
 
 ## Business Impact
 
